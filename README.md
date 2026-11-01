@@ -28,7 +28,8 @@ To gain hands-on experience integrating an AI client with external tools through
 
 # Architecture
 
-Email content → AI instructions in Cursor → MCP client → Existing MCP server → Available email and LinkedIn tools → Workflow output
+<img width="800" height="339" alt="1742489392313" src="https://github.com/user-attachments/assets/e32b2acc-0553-48c1-98da-05f327c89fea" />
+
 
 The exact execution path depends on the tools exposed by the configured MCP server.
 
